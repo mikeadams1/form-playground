@@ -14,6 +14,6 @@ Todo: Create and edit forms, and associate forms with types.
   <meta content="text/html; charset=UTF-8" http-equiv="content-type">
   <!-- was https://solid.github.io/solid-panes/style/tabbedtab.css   -->
   
-    <link type="text/css" rel="stylesheet" href="https://timbl.com/timbl/Automation/Library/Mashup/mash.css" />
-    <script type="text/javascript" src="https://timbl.com/timbl/Automation/Library/Mashup/mashlib.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://github.com/mikeadams1/form-playground/blob/master/mash.css" />
+    <script type="text/javascript" src="https://github.com/mikeadams1/form-playground/blob/master/mashlib.js"></script>
 
