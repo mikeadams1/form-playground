@@ -2,7 +2,7 @@
 # Solid Form Playground
 
 
-See it [live on github pages](https://solid.github.io/form-playground/playground.html)
+See it [live on github pages](https://mikeadams1.github.io/form-playground/playground.html)
 
 Play with solid forms. Apply a random form to a random object.
 Todo: Create and edit forms, and associate forms with types.
