@@ -4,6 +4,8 @@
 
 See it [live on github pages](https://mikeadams1.github.io/form-playground/playground.html)
 
+See The Solid Version [live on Solid Pod](https://index.solid.community/public/8-2/test3.html)
+
 Play with solid forms. Apply a random form to a random object.
 Todo: Create and edit forms, and associate forms with types.
 
